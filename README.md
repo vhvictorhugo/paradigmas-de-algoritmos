@@ -18,7 +18,7 @@ Repositório criado com o intuito de auxiliar nos estudos da disciplina CCF 330 
 
 
 
-Agradecimentos ao Professor Emérito Nivio Ziviani do [Departmento de Ciência da Computação](http://www.dcc.ufmg.br/) da [UFMG](http://www.ufmg.br/) pela disponibilização das implementações e também ao professor Daniel Mendes pelos ensinamentos.
+Agradecimentos ao Professor Emérito Nivio Ziviani do [Departmento de Ciência da Computação](http://www.dcc.ufmg.br/) da [UFMG](http://www.ufmg.br/) pela disponibilização das [implementações](http://www2.dcc.ufmg.br/livros/algoritmos/implementacoes-02.php) e também ao professor Daniel Mendes pelos ensinamentos.
 
 
 
