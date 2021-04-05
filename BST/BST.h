@@ -1,6 +1,10 @@
-// Victor Hugo
-// Adaptação Nivio Ziviani
-// AEDS 2
+/*
+Repositório: Victor Hugo Santos
+
+Binary Search Tree feita com o auxílio das implementações do professor Nivio Ziviani, Ph. D.
+
+fonte: http://www2.dcc.ufmg.br/livros/algoritmos/cap5/codigo/c/5.4a5.10-arvorebinaria.c
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
